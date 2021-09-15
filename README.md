@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently exploring **Flutter, Backend Development**
 
-- 👯 I’m looking to collaborate on **Web Development , Android Development**
+- 👯 I’m looking to collaborate with **other content creators**
 
 - 💬 Ask me about **Python , Web Designing**
 
